@@ -5,7 +5,7 @@ One of the key problems of the current times is integrity. People saying one thi
 
 These settings present another problem, people might ask or require you to do certain activities for reasons they cannot fully explain. The reason they cannot fully explain it, is that it might cause an arms race that destabilises things or prevents proper AI safety being applied.
 
-Technology has the chance to change both these things. For keeping your commitment, if deployed correctly AI could theoretically help you keep your commitments, act as a neutral third party to publish the fact that you are keeping your commitments, or monitor others to see if they are keeping their commitments. 
+Technology has the chance to change both these things. For keeping your commitment, if deployed correctly AI could theoretically help you keep your commitments by monitoring or creating tools to monitor behaviour based on commitments made, act as a neutral third party to publish the fact that you are keeping your commitments, or monitor others to see if they are keeping their commitments. 
 
 For the problem of doing things for reasons they cannot fully explain, it might be worth exploring AI as third party here. Trained with your knowledge and preferences and given the secret information, they could only ask you to make commitments and pay you to do them. This might be a compromise between . There are many details to be worked out here. Who pays the AIs that know the secrets so that they can pay you? How and in what ways can the secret AIs interact? How do new secrets get into the system and who pays for it? 
 
