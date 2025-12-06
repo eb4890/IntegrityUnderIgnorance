@@ -10,3 +10,5 @@ Technology has the chance to change both these things. For keeping your commitme
 For the problem of doing things for reasons they cannot fully explain, it might be worth exploring AI as third party here. Trained with your knowledge and preferences and given the secret information, they could only ask you to make commitments and pay you to do them. This might be a compromise between . There are many details to be worked out here. Who pays the AIs that know the secrets so that they can pay you? How and in what ways can the secret AIs interact? How do new secrets get into the system and who pays for it? 
 
 Ideally we would implement different ways this might work and try them out in limited environments and see which are most humane and productive.
+
+We will probably need stepping stones to get there with humans publishing data about their commitments and other people trusting them. Perhaps with intelligence agencies taking the part of the thr AI paying for committments based on secret knowledge
