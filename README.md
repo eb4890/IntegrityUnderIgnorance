@@ -11,4 +11,4 @@ For the problem of doing things for reasons they cannot fully explain, it might 
 
 Ideally we would implement different ways this might work and try them out in limited environments and see which are most humane and productive.
 
-We will probably need stepping stones to get there with humans publishing data about their commitments and other people trusting them. Perhaps with intelligence agencies taking the part of the thr AI paying for committments based on secret knowledge
+We will probably need stepping stones to get there with humans publishing data about their commitments and other people trusting them. Perhaps with intelligence agencies taking the part of the the AI paying for committments based on secret knowledge. Intelligence agencies might also choose to adopt this system to increase trust that they will keep to their own commitments, even given the need to know nature of their with 
